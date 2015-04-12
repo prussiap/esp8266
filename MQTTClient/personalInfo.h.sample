@@ -1,0 +1,8 @@
+const char* ssid = "xxxxxx";
+const char* password = "xxxxxx";
+
+const char* mqtt_user = "xxxxxx";,
+const char* mqtt_password = "xxxxxx";
+
+char* topic = "esp8266_arduino_out";
+char* server = "cloudmqtt.com";
